@@ -1,4 +1,4 @@
-# # Mapa Interactivo de Precios — ICM-UADE
+# # Mapa Interactivo de Precios — ICR-UADE
 
 Mapa georreferenciado de precios de canastas representativas en supermercados argentinos, elaborado por el **Instituto de Economía de la UADE (INECO)** a partir de los datos públicos del [SEPA](https://datos.produccion.gob.ar/dataset/sepa-precios).
 
@@ -11,15 +11,6 @@ Mapa georreferenciado de precios de canastas representativas en supermercados ar
 Cada punto representa una sucursal de supermercado relevada por el SEPA. El color indica el costo de la canasta seleccionada: **verde = más barato**, **rojo = más caro**.
 
 **Abril 2026 — 2.373 sucursales en las 24 provincias**
-
-| Canasta | Costo promedio nacional |
-|---------|------------------------|
-| Vulnerable | $252.982 |
-| Popular | $451.672 |
-| Media | $634.923 |
-| Media Alta | $879.459 |
-| Celíaca Media | $691.836 (+9,0% vs Media) |
-| Vegana Básica | $427.033 (−5,5% vs Popular) |
 
 ---
 
